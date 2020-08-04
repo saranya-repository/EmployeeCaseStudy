@@ -1,0 +1,22 @@
+.error
+{
+    color: #FF0000;
+}
+input.ng-invalid.ng-touched
+{
+    border: 1px solid red;
+}
+.login-container
+{
+    display: flex;
+    flex-direction: column;
+    background-color: burlywood;
+    margin-top: 2em auto auto;
+}
+.button-center 
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50px;
+}
